@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "93004000116",
+    "project_id": "rexz-377c6",
+    "storage_bucket": "rexz-377c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93004000116:android:14c478e08ba8c0c41f5a21",
+        "android_client_info": {
+          "package_name": "com.rex_parts.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93004000116-q2dimm6qfqmhfedaucqghltmbgi861jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OdEgT8aHBRqE_Hw5iIRqbbuICMnKQ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93004000116-q2dimm6qfqmhfedaucqghltmbgi861jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93004000116-h1hdh3kbsjttsvapsldnjk9ohjv8tvib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rexParts"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93004000116:android:f5ba8be502f1d8fe1f5a21",
+        "android_client_info": {
+          "package_name": "com.rexz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93004000116-2tkkil838c6ipb3m5uaoi2r5jk9f0hm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rexz.app",
+            "certificate_hash": "984af96a5dd6af3705018d569c847f71a1489036"
+          }
+        },
+        {
+          "client_id": "93004000116-q2dimm6qfqmhfedaucqghltmbgi861jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OdEgT8aHBRqE_Hw5iIRqbbuICMnKQ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93004000116-q2dimm6qfqmhfedaucqghltmbgi861jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93004000116-h1hdh3kbsjttsvapsldnjk9ohjv8tvib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rexParts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
